@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955602992554",
+    "firebase_url": "https://parcial-8b0c0-default-rtdb.firebaseio.com",
+    "project_id": "parcial-8b0c0",
+    "storage_bucket": "parcial-8b0c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955602992554:android:091b1af62d5076f2e27fd3",
+        "android_client_info": {
+          "package_name": "com.example.parcial_jamir_balcona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955602992554-ns1ka87n24psr3s6eb72162nrn94smc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARE-QRbX-69bnc6z7imsi1ZqqimGerprQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955602992554-ns1ka87n24psr3s6eb72162nrn94smc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
